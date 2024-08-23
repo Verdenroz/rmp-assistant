@@ -1,0 +1,34 @@
+{
+    "reviews": [
+        {
+            "professor": "Dr. John Smith",
+            "review": "Dr. Smith is an excellent professor who explains concepts clearly and is always willing to help students.",
+            "subject": "Physics",
+            "stars": 5
+        },
+        {
+            "professor": "Prof. Emily Johnson",
+            "review": "Prof. Johnson's lectures are engaging and she provides plenty of resources for further learning.",
+            "subject": "Computer Science",
+            "stars": 4
+        },
+        {
+            "professor": "Dr. Michael Brown",
+            "review": "Dr. Brown is knowledgeable but sometimes his lectures can be a bit dry.",
+            "subject": "Chemistry",
+            "stars": 3
+        },
+        {
+            "professor": "Prof. Sarah Davis",
+            "review": "Prof. Davis is very approachable and her classes are well-organized.",
+            "subject": "Biology",
+            "stars": 4
+        },
+        {
+            "professor": "Dr. Robert Wilson",
+            "review": "Dr. Wilson's exams are tough but fair. He expects a lot from his students.",
+            "subject": "Mathematics",
+            "stars": 4
+        }
+    ]
+}
